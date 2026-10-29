@@ -4,7 +4,7 @@
     "cnpj": "11111111000111",
     "competencia": "2026-04",
     "tipo_imposto": "ISS",
-    "valor_base": 9999.00,
+    "valor_base": 9999.0,
     "aliquota": 0.05,
     "status": "ATIVO",
     "atualizado_em": "2026-04-11T08:00:00"
@@ -14,7 +14,7 @@
     "cnpj": "22222222000122",
     "competencia": "2026-04",
     "tipo_imposto": "PIS_COFINS",
-    "valor_base": 10000.00,
+    "valor_base": 10000.0,
     "aliquota": 0.0465,
     "status": "CANCELADO",
     "atualizado_em": "2026-04-10T08:00:00"
@@ -24,7 +24,7 @@
     "cnpj": "11111111000111",
     "competencia": "2026-05",
     "tipo_imposto": "IRRF",
-    "valor_base": 2000.00,
+    "valor_base": 2000.0,
     "aliquota": 0.015,
     "status": "ATIVO",
     "atualizado_em": "2026-05-02T10:00:00"
@@ -34,9 +34,19 @@
     "cnpj": "11111111000111",
     "competencia": "2026-05",
     "tipo_imposto": "ISS",
-    "valor_base": 1000.00,
-    "aliquota": 1.50,
+    "valor_base": 1000.0,
+    "aliquota": 1.5,
     "status": "ATIVO",
     "atualizado_em": "2026-05-02T11:00:00"
+  },
+  {
+    "id_movimento": "MOV-001",
+    "cnpj": "11111111000111",
+    "competencia": "2026-04",
+    "tipo_imposto": "ISS",
+    "valor_base": -500.0,
+    "aliquota": 0.05,
+    "status": "ATIVO",
+    "atualizado_em": "2026-04-15T10:00:00"
   }
 ]
