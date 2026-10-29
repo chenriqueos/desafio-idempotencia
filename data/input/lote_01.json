@@ -1,0 +1,42 @@
+[
+  {
+    "id_movimento": "MOV-001",
+    "cnpj": "11111111000111",
+    "competencia": "2026-04",
+    "tipo_imposto": "ISS",
+    "valor_base": 1000.00,
+    "aliquota": 0.05,
+    "status": "ATIVO",
+    "atualizado_em": "2026-04-10T10:00:00"
+  },
+  {
+    "id_movimento": "MOV-001",
+    "cnpj": "11111111000111",
+    "competencia": "2026-04",
+    "tipo_imposto": "ISS",
+    "valor_base": 1000.00,
+    "aliquota": 0.05,
+    "status": "ATIVO",
+    "atualizado_em": "2026-04-10T10:00:00"
+  },
+  {
+    "id_movimento": "MOV-002",
+    "cnpj": "11111111000111",
+    "competencia": "2026-04",
+    "tipo_imposto": "ISS",
+    "valor_base": 2000.00,
+    "aliquota": 0.05,
+    "status": "ATIVO",
+    "atualizado_em": "2026-04-10T11:00:00"
+  },
+  {
+    "id_movimento": "MOV-003",
+    "cnpj": "11111111000111",
+    "competencia": "2026-04",
+    "tipo_imposto": "IRRF",
+    "valor_base": 5000.00,
+    "aliquota": 0.015,
+    "status": "ATIVO",
+    "atualizado_em": "2026-04-10T12:00:00"
+  }
+]
